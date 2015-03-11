@@ -1,4 +1,4 @@
-package lsns
+package gui_4
 
 import java.awt.Dimension
 import scala.swing._
